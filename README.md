@@ -31,6 +31,10 @@ G-code
 
 Plans
 
+Dossier FlatCam
+
+Gerbers
+
 Quelques idées d’améliorations si vous aimez bidouiller
 
 🎥 Présentation vidéo

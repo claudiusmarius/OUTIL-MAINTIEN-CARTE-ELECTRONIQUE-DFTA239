@@ -21,7 +21,7 @@ Montage rapide, sans outil spécifique
 
 🧠 Idée du projet
 
-En tant que passionné d’électronique, j’en avais marre des supports fragiles ou mal pensés.
+En tant que passionné d’électronique, j’en  avais marre des supports fragiles ou mal pensés.
 J’ai donc conçu ce dispositif pratique, compact et solide, qui ne laisse plus le PCB s’échapper en plein soudage.
 Le but : simplifier la vie à l’établi sans se ruiner.
 

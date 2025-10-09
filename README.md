@@ -27,7 +27,7 @@ Le but : simplifier la vie à l’établi sans se ruiner.
 
 🖨️ Fichiers disponibles
 
-Modèles STL (pinces, supports latéraux)
+G-code
 
 Schéma de montage et notice rapide
 

@@ -19,6 +19,14 @@ Compatible avec un plan de travail standard
 
 Montage rapide, sans outil spécifique
 
+Rappel de mes paramètres importants d'usihage 
+Feedrate X-Y : 200,00
+Feedrate Z : 100
+Spindle speed : 8000
+Multi-Depth : -1,80
+Fraise 2 dents 2mm
+Le matériau que j'usine est du Synpan expansé de 5 et 10mm que je trouve chez Brico Garonne
+
 🧠 Idée du projet
 
 En tant que passionné d’électronique, j’avais marre des supports fragiles ou mal pensés.

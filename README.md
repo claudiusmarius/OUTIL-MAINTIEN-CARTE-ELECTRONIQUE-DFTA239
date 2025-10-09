@@ -4,7 +4,7 @@ Petit outil pour aider à souder les composants sur les cartes
 🧰 Support PCB – pince modulable pour soudure de précision
 
 Un support simple et ingénieux pour maintenir vos circuits imprimés pendant la soudure.
-L’ensemble repose sur une plaque métallique, et le système de pinces assure un maintien ferme et précis du PCB, même lors de manipulations répétées.
+L’ensemble repose sur une plaque métallique, et le système de pinces "assure" un maintien ferme et précis du PCB, même lors de manipulations répétées.
 Pensé pour les bricoleurs, makers et électroniciens qui aiment travailler proprement sans se battre avec une troisième main trop flasque. 😄
 
 🔧 Caractéristiques

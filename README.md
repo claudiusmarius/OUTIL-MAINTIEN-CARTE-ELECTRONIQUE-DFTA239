@@ -29,7 +29,7 @@ Le but : simplifier la vie à l’établi sans se ruiner.
 
 G-code
 
-Schéma de montage et notice rapide
+Plans
 
 Quelques idées d’améliorations si vous aimez bidouiller
 

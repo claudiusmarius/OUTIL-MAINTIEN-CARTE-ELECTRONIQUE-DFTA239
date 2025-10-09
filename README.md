@@ -17,7 +17,7 @@ Base métallique assurant la stabilité (et quelques surprises magnétiques…)
 
 Compatible avec un plan de travail standard
 
-Montage rapide, sans outil spécifique
+Montage rapide, sans outil spécifique 
 
 Rappel de mes paramètres importants d'usihage:
 

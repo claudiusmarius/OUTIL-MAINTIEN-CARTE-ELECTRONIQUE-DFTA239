@@ -54,4 +54,6 @@ Quelques idées d’améliorations si vous aimez bidouiller
 🎥 Présentation vidéo
 
 Retrouvez la démo complète sur ma chaîne YouTube :
-👉 https://www.youtube.com/@ClaudeDufourmont
+👉 https://youtu.be/EgNjK_jucC4
+
+
